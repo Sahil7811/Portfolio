@@ -61,7 +61,7 @@ const AboutSection = () => {
             </a>
 
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/sahilxlohar/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Instagram"
